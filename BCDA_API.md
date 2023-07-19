@@ -74,6 +74,24 @@ This resource is only available to participants in the ACO REACH model at this t
 
 ## Sandbox
 
+The Beneficiary Claims Data API provides a public sandbox environment for developers to interact, test and familiarize themselves with the API.
+
+The BCDA sandbox environment has the following characteristics:
+
+- No account creation is required.
+- Has no graphical user interface.
+- Can be accessed from the public internet.
+- Supports the two available versions of the API.
+- Provides synthetic data so that organizations can explore the different FHIR resources.
+
+The BCDA sandbox API is available in the following URL:
+
+> **BCDA sandbox API:** **https://sandbox.bcda.cms.gov/**
+
+### Credentials
+
+The BCDA team has created a set of public credentials associated with fake Accountable Care Organizations of different types and sizes so that developers can test the sandbox API.
+
 ## Bulk Data Access
 
 ## API Endpoints
